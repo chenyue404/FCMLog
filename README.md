@@ -1,3 +1,3 @@
-# SystemNotificationLog
+# FCMLog
 
-打开系统的通知记录页面
+打开fcm的log界面，为了解决*#*#426#*#*打不开的问题
